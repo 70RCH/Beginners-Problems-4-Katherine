@@ -1,4 +1,3 @@
-
 for num in range(3):
     password=input("Enter Password:")
     if password == "abcd":
